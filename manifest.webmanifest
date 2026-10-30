@@ -1,0 +1,14 @@
+{
+  "name": "Ham Tech · Technician exam study",
+  "short_name": "Ham Tech",
+  "description": "Plain-English explanations and mock exams for the US amateur radio Technician question pool.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#11161d",
+  "theme_color": "#11161d",
+  "icons": [
+    { "src": "img/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
